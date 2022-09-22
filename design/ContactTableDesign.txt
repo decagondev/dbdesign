@@ -1,0 +1,4 @@
+// contact Table
+ - id : String
+ - name : String
+ - email : String
